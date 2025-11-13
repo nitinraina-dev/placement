@@ -393,10 +393,6 @@ getItems().then(console.log); // [10,20,30]
 
 ---
 
-If you want, I can:
 
-* Turn this into a printable cheat sheet (one-page PDF).
-* Give interactive exercises with answers (3–5 problems).
-* Walk through any single topic more slowly with extra examples (e.g., hoisting or async functions).
 
 
